@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\bucket\OneDrive\course\db\lab5\LibraryManage-master (1)\LibraryManage-master\Library\controller.h(77,34): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\bucket\OneDrive\course\db\lab5\LibraryManage-master (1)\LibraryManage-master\Library\controller.h(143,23): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\bucket\OneDrive\course\db\lab5\LibraryManage-master (1)\LibraryManage-master\Library\controller.h(164,23): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\bucket\OneDrive\course\db\lab5\LibraryManage-master (1)\LibraryManage-master\Library\controller.h(186,34): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\bucket\OneDrive\course\db\lab5\LibraryManage-master (1)\LibraryManage-master\Library\controller.h(221,23): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+C:\Users\bucket\OneDrive\course\db\lab5\LibraryManage-master (1)\LibraryManage-master\Library\controller.h(329,23): warning C4244: “=”: 从“uint64_t”转换到“int”，可能丢失数据
+  library.vcxproj -> C:\Users\bucket\source\repos\library\x64\Debug\library.exe
